@@ -1,0 +1,83 @@
+header {
+	width: 960px;
+	margin: 10px auto;
+
+}
+
+.top_title {
+	float: left;
+	margin-top: 28px;
+	margin-left: 165px;
+	color: black;
+	font-size: 40px;
+}
+
+.ravens_logo {
+	width: 100px;
+	height:100px;
+	margin-left: 0px;
+	float: left;
+	margin-top: 8px;
+}
+
+#menu ul {
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: justify;
+  width: 985px;
+  list-style: none;
+  padding: 0;
+  margin-left: -30px;
+}
+
+li a {
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+}
+
+li a:hover {
+	border-bottom: 5px solid gold;
+	border-top: 5px solid gold;
+}
+
+.box {
+	background-color: #9370DB;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+.box p {
+	font-size: 25px;
+	font-family: 'Noto Serif', serif;
+	color: black;
+}
+
+.right {
+	margin-left: 25px;
+}
+
+.example_paragraph_1_image {
+	float: left;
+	margin-right: 20px;
+}
+
+.example_paragraph_2_image {
+	float: right;
+	width: 179px;
+	margin-left: 20px;
+}
+
+.main p {
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
